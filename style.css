@@ -71,3 +71,28 @@
     height:350px; 
     background: #3C2313;
 }
+
+#productos{
+    text-align: center;
+    margin-bottom: 78px;
+    width: 100%;
+}
+#juguetes{
+    text-align: center;
+    display: inline-flex;
+}
+
+article{
+width: 265px;
+height: 312px;
+
+
+}
+
+.descripcion-juguete, .valor-juguete{
+    margin: 0;
+}
+
+.valor-juguete{
+    color: #F0A83E;
+}
